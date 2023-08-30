@@ -1,1 +1,3 @@
-# hello
+# Hi A Bit About Myself...
+
+I'm learning to code.
